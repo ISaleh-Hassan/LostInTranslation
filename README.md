@@ -1,6 +1,6 @@
 # LostInTranslation
 
-This project is created by [Saleh Hassan](https://github.com/ISaleh-Hassan) and [Johnny Hoang](https://github.com/Heso113) using React framework.
+This project is created by [Saleh Hassan](https://github.com/ISaleh-Hassan) and [Hampus Olsson](https://github.com/Heso113) using React framework.
 
 Link to [Heroku](https://lost-in-translation-oof.herokuapp.com)
 
